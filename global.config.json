@@ -288,21 +288,13 @@
     },
     "liteservers": [
       {
-        "ip": -2018135749,
-        "port": 53312,
+        "ip": 1097695347,
+        "port": 25649,
         "id": {
-          "@type": "pub.ed25519",
-          "key": "aF91CuUHuuOv9rm2W5+O/4h38M3sRm40DtSdRxQhmtQ="
+                "@type": "pub.ed25519",
+                "key": "/NQgtGep5GWg7aLak5DMaSdmGtMcDFFCVYxuMDh5Jvg="
+            }
         }
-      },
-      {
-        "ip": -2018145068,
-        "port": 13206,
-        "id": {
-          "@type": "pub.ed25519",
-          "key": "K0t3+IWLOXHYMvMcrGZDPs+pn58a17LFbnXoQkKc2xw="
-        }
-      }
     ],
     "validator": {
       "@type": "validator.config.global",
